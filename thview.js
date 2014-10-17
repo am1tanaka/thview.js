@@ -2,7 +2,8 @@
  *
  * This program is licensed under the MIT License.
  * Copyright 2014, aike (@aike1000)
- *
+ * -
+ * Add Release Function(@am1tanaka)
  */
 
 var ThView = function(arg) {
